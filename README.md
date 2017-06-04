@@ -3,10 +3,7 @@
 A static website to showcase various projects hosted on [GitHub](https://github.com/FlyingKatsu/ "FlyingKatsu on GitHub").
 
 - [Game Jams](#game-jams)
-  - [Slow Game Jam: Slay the Dragon](#slow-game-jam-slay-the-dragon)
 - [Discord Bots](#discord-bots)
-  - [GitLab Webhook for Discord](#gitlab-webhook-for-discord)
-  - [Mr. Prog](#mr-prog)
 - [Blog](http://blog.flyingkatsu.com/)
 - [Twitter](https://twitter.com/theflyingkatsu)
 
