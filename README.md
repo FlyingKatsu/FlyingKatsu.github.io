@@ -1,12 +1,19 @@
-# FlyingKatsu Portfolio
+# Portfolio
 
 A static website to showcase various projects hosted on [GitHub](https://github.com/FlyingKatsu/ "FlyingKatsu on GitHub").
 
+- [Game Jams](#game-jams)
+  - [Slow Game Jam: Slay the Dragon](#slow-game-jam-slay-the-dragon)
+- [Discord Bots](#discord-bots)
+  - [GitLab Webhook for Discord](#gitlab-webhook-for-discord)
+  - [Mr. Prog](#mr-prog)
+- [Blog](http://blog.flyingkatsu.com/)
+- [Twitter](https://twitter.com/theflyingkatsu)
 
-## Game Jam Submissions
+## Game Jams
 
 
-### Slay the Dragon
+### Slow Game Jam: Slay the Dragon
 An HTML5 game made with [Superpowers](http://superpowers-html5.com/index.en.html) in 1 week for [Slow Game Jam](https://itch.io/jam/slow-game-jam), March 2017.
 
 - [Read the Dev Log](https://itch.io/t/69699/slay-the-dragon)
@@ -36,9 +43,3 @@ Mr.Prog is an interactive chat bot that enables members of your Discord server t
 
 <iframe width="560" height="315" style="margin-bottom:32px;" src="https://www.youtube.com/embed/6LBBi2Ay8aY" frameborder="0" allowfullscreen></iframe>
 
-
-
-## Social
-
-- [Blog](http://blog.flyingkatsu.com/)
-- [Twitter](https://twitter.com/theflyingkatsu)
