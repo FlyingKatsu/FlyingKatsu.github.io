@@ -1,7 +1,5 @@
 # Portfolio
 
-A static website to showcase various projects hosted on [GitHub](https://github.com/FlyingKatsu/ "FlyingKatsu on GitHub").
-
 - [Game Jams](#game-jams)
 - [Discord Bots](#discord-bots)
 - [Blog](http://blog.flyingkatsu.com/)
