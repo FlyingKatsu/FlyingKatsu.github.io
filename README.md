@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# FlyingKatsu Portfolio
 
-You can use the [editor on GitHub](https://github.com/FlyingKatsu/FlyingKatsu.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A static website to showcase various projects hosted on [GitHub](https://github.com/FlyingKatsu/ "FlyingKatsu on GitHub").
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Game Jam Submissions
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Slay the Dragon
+An HTML5 game made with [Superpowers](http://superpowers-html5.com/index.en.html) in 1 week for [Slow Game Jam](https://itch.io/jam/slow-game-jam), March 2017.
 
-# Header 1
-## Header 2
-### Header 3
+- [Read the Dev Log](https://itch.io/t/69699/slay-the-dragon)
+- [Play on Itch.io](https://flyingkatsu.itch.io/slay-the-dragon)
 
-- Bulleted
-- List
+<iframe width="560" height="315" style="margin-bottom:32px;" src="https://www.youtube.com/embed/A9ISlEma0wA" frameborder="0" allowfullscreen></iframe>
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Discord Bots
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### GitLab Webhook for Discord
+Similar to Discord's built-in support for GitHub webhooks, this is a custom implementation using the [GitLab webhook API](https://docs.gitlab.com/ce/user/project/integrations/webhooks.html) and [DiscordJS](https://github.com/hydrabolt/discord.js/).  May be extended later to support Twitter webhooks as well.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FlyingKatsu/FlyingKatsu.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- [GitHub Repository](https://github.com/FlyingKatsu/Discord-GitLab-Webhook)
+- [Discord Test Server](https://discord.gg/tZWqhWd)
+- [GitLab Test Project](https://gitlab.com/Warped2713/test-discord-webhook/issues)
+- Add the GitLab Webhook bot to your Discord Server (coming soon!)
 
-### Support or Contact
+### Mr. Prog
+Mr.Prog is an interactive chat bot that enables members of your Discord server to create, customize, and interact with their own personal NetNavi.  While originally intended to be for fans of the Mega Man Battle Network series, it could easily be modified for use with any kind of characters.  Members can customize the appearance and personality of their partner character, and even make their character say things on command or in specific contexts.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Documentation and Help Guide](https://flyingkatsu.github.io/mrprog/)
+- [Discord Test Server](https://discord.gg/An86Wxy)
+- Add the GitLab Webhook bot to your Discord Server (coming soon!)
+
+<iframe width="560" height="315" style="margin-bottom:32px;" src="https://www.youtube.com/embed/6LBBi2Ay8aY" frameborder="0" allowfullscreen></iframe>
+
+
+
+## Social
+
+- [Blog](http://blog.flyingkatsu.com/)
+- [Twitter](https://twitter.com/theflyingkatsu)
