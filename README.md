@@ -23,7 +23,7 @@ An HTML5 Canvas and JavaScript app that helps you create a progress bar graphic.
 - [Live Version](http://flyingkatsu.com/ProgressBarGenerator/)
 - [Google Sheets API test page](http://flyingkatsu.com/ProgressBarGenerator/sheet.html)
 
-![progress bar example](https://i.imgur.com/HmOKJE9.png)
+![progress bar example](https://i.imgur.com/4y73zbk.png)
 
 
 
