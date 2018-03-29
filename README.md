@@ -11,14 +11,14 @@
 
 
 ### Translate2Emoji
-A simple JavaScript-powered HTML5 form for replacing message text with Discord-ready emoji.
+A simple JavaScript-powered HTML5 form for replacing message text with Discord-ready emoji mentions.
 
 - [Live Version](https://warped2713.github.io/Translate2Emoji/)
 
 ![translate2emoji preview](https://i.imgur.com/ODdporU.png)
 
 ### ProgressBarGenerator
-An HTML5 Canvas and JavaScript app that helps you create a progress bar graphic. Can also use the Google Sheets API to load data from a spreadsheet.
+An HTML5 Canvas and JavaScript app that helps you create a progress bar graphic for several money pool goals. Also supports the Google Sheets API to load data from a spreadsheet.
 
 - [Live Version](http://flyingkatsu.com/ProgressBarGenerator/)
 - [Google Sheets API test page](http://flyingkatsu.com/ProgressBarGenerator/sheet.html)
