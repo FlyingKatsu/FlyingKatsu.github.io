@@ -15,11 +15,15 @@ A simple JavaScript-powered HTML5 form for replacing message text with Discord-r
 
 - [Live Version](https://warped2713.github.io/Translate2Emoji/)
 
+![translate2emoji preview](https://i.imgur.com/ODdporU.png)
+
 ### ProgressBarGenerator
 An HTML5 Canvas and JavaScript app that helps you create a progress bar graphic. Can also use the Google Sheets API to load data from a spreadsheet.
 
 - [Live Version](http://flyingkatsu.com/ProgressBarGenerator/)
 - [Google Sheets API test page](http://flyingkatsu.com/ProgressBarGenerator/sheet.html)
+
+![progress bar example](https://i.imgur.com/HmOKJE9.png)
 
 
 
@@ -47,6 +51,11 @@ Similar to Discord's built-in support for GitHub webhooks, this is a custom impl
 - [GitLab Test Project](https://gitlab.com/Warped2713/test-discord-webhook/issues)
 - Discord Test Server (coming soon!)
 - Add the GitLab Webhook bot to your Discord Server (coming soon!)
+
+![example push/issue/comment/merge hook](https://i.imgur.com/3fygABK.png)
+![example tag/wiki hook](https://i.imgur.com/gweun7S.png)
+![example job/pipeline hook](https://i.imgur.com/SqXqNl7.png)
+![example build hook](https://i.imgur.com/B9DUBLu.png)
 
 ### Mr. Prog
 Mr.Prog is an interactive chat bot that enables members of your Discord server to create, customize, and interact with their own personal NetNavi.  While originally intended to be for fans of the Mega Man Battle Network series, it could easily be modified for use with any kind of characters.  Members can customize the appearance and personality of their partner character, and even make their character say things on command or in specific contexts.
